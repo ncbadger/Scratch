@@ -1,4 +1,7 @@
-Scratch
-=======
+Scratch Activities
+==================
 
-Instructions for some exercises using Scratch
+Pac Man Game
+------------
+* Part I Instructions
+* Part II Instructions
