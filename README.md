@@ -9,4 +9,4 @@ Pac Man Game
 * [Part 4 Instructions] (https://github.com/ncbadger/Scratch/raw/master/PacManActivityPart4_SOLUTION.pdf)
 * [Part 5 Instructions] (https://github.com/ncbadger/Scratch/raw/master/PacManActivityPart5_SOLUTION.pdf)
 * [Part 6 Instructions] (https://github.com/ncbadger/Scratch/raw/master/PacManActivityPart6_SOLUTION.pdf)
-* [Part 7 Instructions] (https://github.com/ncbadger/Scratch/raw/master/PacManActivityPart7_SOLUTION.pdf)
+* [Part 7 Instructions] (https://github.com/ncbadger/Scratch/raw/master/PacManActivityPart7.pdf)
